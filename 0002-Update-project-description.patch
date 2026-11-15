@@ -1,0 +1,27 @@
+From 9693cf50c5382f1e571170ea52b56e4b93809671 Mon Sep 17 00:00:00 2001
+From: heeranyarajagopal19 <heeranyarajagopal@gmail.com>
+Date: Sat, 14 Nov 2026 23:26:41 +0530
+Subject: [PATCH 2/2] Update project description
+
+---
+ index.html | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 92b4bf6..bdf6360 100644
+--- a/index.html
++++ b/index.html
+@@ -12,6 +12,8 @@
+ 
+     <h2>My Projects</h2>
+     <p>I have worked on web development and software projects.</p>
++    <p>Learning Git and GitHub through practical implementation.</p>
+     <footer>Contact us: hello@gmail.com</footer>
++    
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+-- 
+2.56.1.windows.1
+
